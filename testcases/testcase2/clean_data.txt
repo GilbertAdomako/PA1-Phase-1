@@ -1,0 +1,4 @@
+This is a perfectly clean file.
+It contains only standard ASCII characters.
+Line 3 has numbers: 1234567890
+Line 4 has symbols: !@#$%^&*()_+-=

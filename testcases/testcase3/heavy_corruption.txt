@@ -1,0 +1,4 @@
+This line is perfectly fine.
+This line contains a French word: café
+This line contains a trademark symbol: ™
+This line is completely corrupted with emojis: 🛑🚀💥

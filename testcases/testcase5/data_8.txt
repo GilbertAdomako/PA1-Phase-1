@@ -1,0 +1,1 @@
+File 8 is just a normal, boring ASCII file.
